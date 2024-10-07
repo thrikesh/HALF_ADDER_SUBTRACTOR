@@ -68,7 +68,9 @@ xor(df,a,b);
 and(bo,~a,b);
 endmodule
 ```
-**RTL Schematic**
+
+
+**RTL Schematic:**
 ![image](https://github.com/user-attachments/assets/c271fd67-804b-43de-baa8-d608f15ae9ac)
 
 **Output/TIMING Waveform**
